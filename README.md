@@ -1,4 +1,4 @@
-<p align=center>Computer Science - Lawrence Porquia - Assignment #001
+<p align=center>Computer Science - Lawrence - Assignment #001
   
 ##
 
