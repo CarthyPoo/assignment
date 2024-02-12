@@ -11,5 +11,26 @@
 <p align=center>You may submit this in a Google document file in the classroom. 
 
 ##
-
 Link to slides may be found [here](https://docs.google.com/presentation/d/19E7q1bzdNTIwPxfbvNMk_PSqoSZyPNECF6qu5A5n2DM/edit?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+##
+This assignment was taken from Harvard's online class "CS50" in which the course states:
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
