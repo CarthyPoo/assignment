@@ -23,7 +23,8 @@ Link to slides may be found [here](https://docs.google.com/presentation/d/19E7q1
 
 
 ##
-This assignment was taken from Harvard's online class "CS50" in which the course states:
+This assignment was taken from Harvard's online class "CS50" in which the course states
+
 You are free to:
 
 Share — copy and redistribute the material in any medium or format
