@@ -13,7 +13,7 @@
 ##
 Link to slides may be found [here](https://docs.google.com/presentation/d/19E7q1bzdNTIwPxfbvNMk_PSqoSZyPNECF6qu5A5n2DM/edit?usp=sharing)
 
-
+IMPORTANT: In codespaces, you may encounter an error in which when you try to run the programs it will tell you "Permission Denied" and you must run chmod +x "program name" to allow yourself to execute the file as a program. (I.E. "chmod +x sort1")
 
 
 
