@@ -9,6 +9,10 @@
 <p align=center>Your task is to determine which algorithm each program uses by using the time command in your codespace that tells you exactly how long it took the computer to complete the algorithm and explain why you think so.
 
 <p align=center>You may submit this in a Google document file in the classroom. 
+
+
+
+  
 ##
 
 <p align=center>Computer Science - Lawrence Porquia - Assignment #002: Introduction to C
@@ -20,6 +24,7 @@
 <p align=center> Your task is to first create a program that can print "Hello, World" in C 
 
 ##
+
 Link to slides may be found [here](https://docs.google.com/presentation/d/19E7q1bzdNTIwPxfbvNMk_PSqoSZyPNECF6qu5A5n2DM/edit?usp=sharing)
 
 IMPORTANT: In codespaces, you may encounter an error in which when you try to run the programs it will tell you "Permission Denied" and you must run chmod +x "program name" to allow yourself to execute the file as a program. (I.E. "chmod +x sort1")
