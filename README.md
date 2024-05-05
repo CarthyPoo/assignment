@@ -23,11 +23,7 @@
 
 <p align=center> Your task is to first create a program that can print "Hello, World" in C 
 
-<p align=center> Then you will create a program that prints a pyramid using hashes like so
-
-<div align="center">
-    <img src="https://i.imgur.com/udrMofa.png" />
-      </a>
+<p align=center> Then you will create a program that will ask the user for a temperature in celsius then print the converted value in fahrenheit.
 
 ##
 
