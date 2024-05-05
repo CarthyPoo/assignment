@@ -23,6 +23,12 @@
 
 <p align=center> Your task is to first create a program that can print "Hello, World" in C 
 
+<p align=center> Then you will create a program that prints a pyramid using hashes like so
+
+<div align="center">
+    <img src="https://i.imgur.com/udrMofa.png" />
+      </a>
+
 ##
 
 Link to slides may be found [here](https://docs.google.com/presentation/d/19E7q1bzdNTIwPxfbvNMk_PSqoSZyPNECF6qu5A5n2DM/edit?usp=sharing)
