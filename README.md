@@ -15,7 +15,7 @@
   
 ##
 
-<p align=center>Computer Science - Lawrence Porquia - Assignment #002: Introduction to C
+<p align=center>Computer Science - Lawrence Porquia - Assignment #002: Implementing sorting algorithms
 
 ##
 
